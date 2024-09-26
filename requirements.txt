@@ -2,8 +2,8 @@ pip==24.2
 folium==0.17.0
 geopandas==0.14.3
 laspy==2.5.3
-setuptools==75.1.0
-matplotlib==3.7.2
+setuptools
+#matplotlib==3.7.2
 numpy==1.24.3
 open3d==0.18.0
 opencv_python==4.9.0.80
